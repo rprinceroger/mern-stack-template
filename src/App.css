@@ -1,0 +1,40 @@
+/*Update the App.css by removing its content and replace by the following codes*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "TrajanPro";
+}
+
+/* Define custom font 'TrajanPro-Regular' */
+@font-face {
+  font-family: 'TrajanPro-Regular';
+  src: url('./fonts/TrajanPro-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Define custom font 'TrajanPro-Bold' */
+@font-face {
+  font-family: 'TrajanPro-Bold';
+  src: url('./fonts/TrajanPro-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Styling for a custom navbar */
+/*.navbar-custom {
+  background-color: [change color to your preference];
+}*/
+
+/* Styling for a custom footer */
+/*.footer-custom {
+  background-color: [change color to your preference];
+}*/
+
+/* Hover effect for navigation links inside the custom navbar */
+/*.navbar-custom .nav-link:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  transition: box-shadow 0.3s ease-in-out;
+}*/
