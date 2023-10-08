@@ -1,6 +1,6 @@
 # MERN Stack Template
 
-> [!NOTE:]
+> [!NOTE]
 > This is a React Web Application template with added dependecies and font style`(Trojan)`. All dependencies are up to date with the help of `GitHub Dependabot` ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white). You may used the sample `README.md` template by deleting this README file and renaming the `README_TEMPLATE.md` after modifying with the needed information.
 
 
